@@ -4,6 +4,7 @@ So you want to start coding? Well, there are many tools around the internet you 
 #### Alright! Let's go first with installing Git!
 ## Installing Git
 Git is a free, open-source tool for tracking changes to files, especially code, over time. Think of it as a "time machine" or advanced "undo" button for your projects. It lets you save snapshots of your work, go back to older versions, and collaborate without losing anything. So how do you install it into your device?
+
 1. Open your web browser and search Git download or go to this link https://git-scm.com/
 
 ![Git Website](/Pictures/Git%20Website.png)
