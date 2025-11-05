@@ -17,6 +17,7 @@ Git is a free, open-source tool for tracking changes to files, especially code, 
 4.	After it has been downloaded, click the installer in your downloads folder.
 
 ![Git Installer Web](/Pictures/Git%20Installer.png)
+
 5.	Follow the instructions and click next.
 
 ![Git Installer Web](/Pictures/Git%20Finish%20Installing.png)
