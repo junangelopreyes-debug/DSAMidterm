@@ -6,7 +6,7 @@ So you want to start coding? Well, there are many tools around the internet you 
 Git is a free, open-source tool for tracking changes to files, especially code, over time. Think of it as a "time machine" or advanced "undo" button for your projects. It lets you save snapshots of your work, go back to older versions, and collaborate without losing anything. So how do you install it into your device?
 1. Open your web browser and search Git download or go to this link https://git-scm.com/
 
-![Git Website](/Pictures/Git%20Website.)
+!(/Pictures/Git%20Website. "Git Website")
 
 2.	Go to install
 3.	Select which OS (Operating Software) you are currently using, and follow the corresponding instructions how to download it (In this case, select the "Git for Windows/x64 Setup." for windows in the "Standalone Installer" row).
