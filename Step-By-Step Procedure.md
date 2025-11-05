@@ -29,7 +29,7 @@ Git is a free, open-source tool for tracking changes to files, especially code, 
 
 *   Second Way : Go to your computer's search bar and search Git and it will pop up if your Git isn't installed.
 
-![Git Bash in Search Bar](/Pictures/Git%20Bash%20in%20Search%20Bar.)
+![Git Bash in Search Bar](/Pictures/Git%20Bash%20in%20Search%20Bar.png)
 
 ## Setting Up GitHub
 GitHub is like this giant online storage locker and collaboration hub for people who build software, write code, or manage projects. It's built on a tool called Git, which helps track changes to files over time, kind of like a "save" button with a history log. Think of it as Google Drive for programmers, but with extra features for teamwork and sharing.
