@@ -12,8 +12,14 @@ Git is a free, open-source tool for tracking changes to files, especially code, 
 ![Install Git](/Pictures/Install%20Git.png)
 
 3.	Select which OS (Operating Software) you are currently using, and follow the corresponding instructions how to download it (In this case, select the "Git for Windows/x64 Setup." for windows in the "Standalone Installer" row).
+
+![Git Installer Web](/Pictures/Git%20Installer%20Web.png)
 4.	After it has been downloaded, click the installer in your downloads folder.
+
+![Git Installer Web](/Pictures/Git%20Installer.png)
 5.	Follow the instructions and click next.
+
+![Git Installer Web](/Pictures/Git%20Finish%20Installing.png)
 6.	After the installation, there are two ways to check if Git has been installed in your computer:
 *	First Way : Go to a folder in your computer and press right click inside of it, then go to "Show More Options" and if you see a "Git Bash" and "Git GUI" then git has been installed into your computer. (If you are using Windows 10, just right click your mouse into the empty folder and you can already see if Git is installed in your computer)
 *   Second Way : Go to your computer's search bar and search Git and it will pop up if your Git isn't installed.
