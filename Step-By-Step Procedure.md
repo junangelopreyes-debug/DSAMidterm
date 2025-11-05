@@ -37,7 +37,11 @@ Git is a free, open-source tool for tracking changes to files, especially code, 
 ## Setting Up GitHub
 GitHub is like this giant online storage locker and collaboration hub for people who build software, write code, or manage projects. It's built on a tool called Git, which helps track changes to files over time, kind of like a "save" button with a history log. Think of it as Google Drive for programmers, but with extra features for teamwork and sharing.
 1.	Open your web browser and search GitHub or go to this link https://github.com/
+![Git Installer Web](/Pictures/GitHub%20Website.)
+
 2.	Go to Sign up that is located at the upper right of the website
+![Git Installer Web](/Pictures/GitHub%20Sign%20Up.png)
+
 3.	Create your account follow the procedures displayed on the process
 4.	That's it, you're done setting up your GitHub account!
 
