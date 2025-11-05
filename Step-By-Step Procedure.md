@@ -1,1 +1,2 @@
 # Step-By-Step Procedure of Installing Git,Github, and VSC (Visual Studio Code)
+So you want to start coding? Well, there are many tools around the internet you can use to start coding, but these three components are the most used around the coding community.
