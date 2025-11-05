@@ -19,6 +19,7 @@ GitHub is like this giant online storage locker and collaboration hub for people
 2.	Go to Sign up that is located at the upper right of the website
 3.	Create your account follow the procedures displayed on the process
 4.	That's it, you're done setting up your GitHub account!
+
 We will go back on how GitHub is used, but for now let's go on how-
 ## How to Download Visual Studio Code (VSC)
 1.	Open your web browser and search Visual studio code or go to this link https://code.visualstudio.com/
