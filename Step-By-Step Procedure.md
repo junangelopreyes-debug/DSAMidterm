@@ -7,6 +7,7 @@ Git is a free, open-source tool for tracking changes to files, especially code, 
 1. Open your web browser and search Git download or go to this link https://git-scm.com/
 
 ![Git Website](/Pictures/Git%20Website.png)
+
 2.	Go to install
 
 ![Install Git](/Pictures/Install%20Git.png)
