@@ -51,6 +51,7 @@ We will go back on how GitHub is used, but for now let's go on how-
 ![VSC Website](/Pictures/VSC%20Website.png)
 
 2.	Click Download located at the top right of the 
+
 ![Download VSC](/Pictures/Download%20VSC.png)
 
 3.	It will take you to the download page and will show you the different installers for different operating systems
@@ -61,4 +62,5 @@ We will go back on how GitHub is used, but for now let's go on how-
 ![VSCODE Installer](/Pictures/VSCODE%20Installer.png)
 
 6.	And you're done! To check if VSC has been successfully downloaded, go to your computer's search bar and search the Visual Studio Code to see if the software is in your computer.
+
 ![VSC Installing Finish](/Pictures/VSC%20Installing%20Finish.png)
