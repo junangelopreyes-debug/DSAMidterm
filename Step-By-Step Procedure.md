@@ -40,11 +40,11 @@ GitHub is like this giant online storage locker and collaboration hub for people
 
 ![GitHub Website](/Pictures/GitHub%20Website.png)
 
-2.	Go to Sign up that is located at the upper right of the website
+2.	Go to Sign up that is located at the upper right of the website.
 
 ![GitHub Sign Up](/Pictures/GitHub%20Sign%20Up.png)
 
-3.	Create your account follow the procedures displayed on the process
+3.	Create your account follow the procedures displayed on the process.
 4.	That's it, you're done setting up your GitHub account!
 
 We will go back on how GitHub is used, but for now let's go on how-
@@ -53,15 +53,15 @@ We will go back on how GitHub is used, but for now let's go on how-
 
 ![VSC Website](/Pictures/VSC%20Website.png)
 
-2.	Click Download located at the top right of the 
+2.	Click Download located at the top right of the website.
 
 ![Download VSC](/Pictures/Download%20VSC.png)
 
-3.	It will take you to the download page and will show you the different installers for different operating systems
+3.	It will take you to the download page and will show you the different installers for different operating systems.
 
 ![VSC Installer](/Pictures/VSC%20Installer.png)
 
-4.	Click the operating software you are using and the file will be downloaded to your computer
+4.	Click the operating software you are using and the file will be downloaded to your computer.
 5.	After that, click the installer located at your computer's download folder and follow the steps necessary in the installer.
 
 ![VSCODE Installer](/Pictures/VSCODE%20Installer.png)
