@@ -13,7 +13,7 @@ Git is a free, open-source tool for tracking changes to files, especially code, 
 *	First Way : Create a new folder in your computer and press right click inside of it, then go to "Show More Options" and if you see a "Git Bash" and "Git GUI" then git has been installed into your computer. (If you are using Windows 10, just right click your mouse into the empty folder and you can already see if Git is installed in your computer)
 *   Second Way : Go to your computer's search bar and search Git and it will pop up if your Git isn't installed.
 
-#### Next Up : Setting Up GitHub
+### Next Up : Setting Up GitHub
 GitHub is like this giant online storage locker and collaboration hub for people who build software, write code, or manage projects. It's built on a tool called Git, which helps track changes to files over time, kind of like a "save" button with a history log. Think of it as Google Drive for programmers, but with extra features for teamwork and sharing.
 1.	Open your web browser and search GitHub or go to this link https://github.com/
 2.	Go to Sign up that is located at the upper right of the website
