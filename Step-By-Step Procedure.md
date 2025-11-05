@@ -9,7 +9,7 @@ Git is a free, open-source tool for tracking changes to files, especially code, 
 ![Git Website](/Pictures/Git%20Website.png)
 2.	Go to install
 
-![Install Git](/Pictures/Git%20Installer.png)
+![Install Git](/Pictures/Install%20Git.png)
 3.	Select which OS (Operating Software) you are currently using, and follow the corresponding instructions how to download it (In this case, select the "Git for Windows/x64 Setup." for windows in the "Standalone Installer" row).
 4.	After it has been downloaded, click the installer in your downloads folder.
 5.	Follow the instructions and click next.
