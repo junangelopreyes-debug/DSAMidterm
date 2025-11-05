@@ -48,6 +48,7 @@ GitHub is like this giant online storage locker and collaboration hub for people
 We will go back on how GitHub is used, but for now let's go on how-
 ## How to Download Visual Studio Code (VSC)
 1.	Open your web browser and search Visual studio code or go to this link https://code.visualstudio.com/
+
 ![VSC Website](/Pictures/VSC%20Website.png)
 
 2.	Click Download located at the top right of the 
@@ -55,6 +56,7 @@ We will go back on how GitHub is used, but for now let's go on how-
 ![Download VSC](/Pictures/Download%20VSC.png)
 
 3.	It will take you to the download page and will show you the different installers for different operating systems
+
 ![VSC Installer](/Pictures/VSC%20Installer.png)
 
 4.	Click the operating software you are using and the file will be downloaded to your computer
