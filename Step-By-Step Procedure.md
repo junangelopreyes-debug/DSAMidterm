@@ -59,6 +59,7 @@ We will go back on how GitHub is used, but for now let's go on how-
 
 4.	Click the operating software you are using and the file will be downloaded to your computer
 5.	After that, click the installer located at your computer's download folder and follow the steps necessary in the installer.
+
 ![VSCODE Installer](/Pictures/VSCODE%20Installer.png)
 
 6.	And you're done! To check if VSC has been successfully downloaded, go to your computer's search bar and search the Visual Studio Code to see if the software is in your computer.
