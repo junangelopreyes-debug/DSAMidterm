@@ -90,11 +90,11 @@ Select "New repository" from the dropdown.
 
 3. Configure the Repository:
 
->>* **Repository Name**: Enter a unique name (e.g., "my-project").
+ - **Repository Name**: Enter a unique name (e.g., "my-project").
 
->>* **Description**: Add an optional short description.
+ - **Description**: Add an optional short description.
 
->>* **Visibility**: Choose "Public" (free and visible to everyone) or "Private" (requires a paid plan for private repos).
+ - **Visibility**: Choose "Public" (free and visible to everyone) or "Private" (requires a paid plan for private repos).
 
 Leave "Initialize this repository with" unchecked if you want to start empty.
 
