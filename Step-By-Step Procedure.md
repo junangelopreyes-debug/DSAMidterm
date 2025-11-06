@@ -72,14 +72,27 @@ We will go back on how GitHub is used, but for now let's go on how-
 
 ![VSC In Search Bar](/Pictures/VSC%20in%20Search%20Bar.png)
 
+## Congratulations! You have now the essential parts in starting your journey to coding!
+
 Now, after installing both GitHub and Git, here's how you can start a repository and directly link your code through Visual Studio Code
 
 ## Starting A Repository
 A repository (often called a "repo") is a central storage location for managing, tracking, and collaborating on files and code. In the context of version control systems like Git, it's a folder that contains all the files for a project, along with the history of changes made to them.
+
 So, how do you start one?
 
-1.	Initialize a Repository: Start tracking a project. Command: git init (creates a hidden .git folder in your project directory).
-2.	Add Files: Stage changes for the next commit. Command: git add <filename> (or git add . for all files).
-3.	Commit Changes: Save a snapshot of your staged changes with a message. Command: git commit -m "Your message here".
-4.	Check Status: See what's changed, staged, or untracked. Command: git status.
-5.	View History: Look at past commits. Command: git log (shows commit messages, authors, and dates).
+1.	Log In to GitHub:
+Go to github.com and sign in.
+
+2. Create a New Repository:
+Click the "+" icon in the top-right corner (next to your profile picture).
+Select "New repository" from the dropdown.
+
+3. Configure the Repository:
+Repository Name: Enter a unique name (e.g., "my-project").
+Description: Add an optional short description.
+Visibility: Choose "Public" (free and visible to everyone) or "Private" (requires a paid plan for private repos).
+Leave "Initialize this repository with" unchecked if you want to start empty.
+
+4. Create the Repository:
+Click "Create repository". GitHub will generate the repo and show its URL (e.g., https://github.com/yourusername/my-project.git).
