@@ -9,7 +9,7 @@ Here are some of the operations you can use within Git, GitHub, and Visual Studi
 
 ## GitHub
 1.	**Create a Repository**: Start a new project on GitHub. Go to github.com, click "New repository," name it, and choose public/private.
-2.	**Fork a **Repository**: Copy someone else's public repo to your account for personal changes. Click "Fork" on the repo page.
+2.	**Fork a Repository**: Copy someone else's public repo to your account for personal changes. Click "Fork" on the repo page.
 3.	**View Code and History**: Browse files, commits, and branches on the GitHub website. Use the search bar for specific code.
 4.	**Issues**: Report bugs or request features. On a repo page, click "Issues" > "New issue," describe the problem, and assign labels.
 5.	**Collaborate**: Invite others to your repo via Settings > Collaborators. They can push directly or submit PRs.
