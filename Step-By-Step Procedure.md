@@ -69,3 +69,5 @@ We will go back on how GitHub is used, but for now let's go on how-
 6.	And you're done! To check if VSC has been successfully downloaded, go to your computer's search bar and search the Visual Studio Code to see if the software is in your computer.
 
 ![VSC Installing Finish](/Pictures/VSC%20Installing%20Finish.png)
+
+![VSC In Search Bar](/Pictures/VSC%20in%20Search%20Bar.png)
