@@ -104,3 +104,4 @@ Select "New repository" from the dropdown.
 
 4. Create the Repository:
 Click "Create repository". GitHub will generate the repo and show its URL (e.g., https://github.com/yourusername/my-project.git).
+![New Repository](/Pictures/New%20Repository.png)
