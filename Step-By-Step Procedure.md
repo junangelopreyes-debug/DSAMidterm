@@ -71,3 +71,15 @@ We will go back on how GitHub is used, but for now let's go on how-
 ![VSC Installing Finish](/Pictures/VSC%20Installing%20Finish.png)
 
 ![VSC In Search Bar](/Pictures/VSC%20in%20Search%20Bar.png)
+
+Now, after installing both GitHub and Git, here's how you can start a repository and directly link your code through Visual Studio Code
+
+## Starting A Repository
+A repository (often called a "repo") is a central storage location for managing, tracking, and collaborating on files and code. In the context of version control systems like Git, it's a folder that contains all the files for a project, along with the history of changes made to them.
+So, how do you start one?
+
+1.	Initialize a Repository: Start tracking a project. Command: git init (creates a hidden .git folder in your project directory).
+2.	Add Files: Stage changes for the next commit. Command: git add <filename> (or git add . for all files).
+3.	Commit Changes: Save a snapshot of your staged changes with a message. Command: git commit -m "Your message here".
+4.	Check Status: See what's changed, staged, or untracked. Command: git status.
+5.	View History: Look at past commits. Command: git log (shows commit messages, authors, and dates).
