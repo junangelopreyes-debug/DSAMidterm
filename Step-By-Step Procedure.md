@@ -87,6 +87,7 @@ Go to github.com and sign in.
 2. Create a New Repository:
 Click the "+" icon in the top-right corner (next to your profile picture).
 Select "New repository" from the dropdown.
+![GitHub New Repository](/Pictures/GitHub%20New%20Repository%20.png)
 
 3. Configure the Repository:
 
@@ -97,6 +98,9 @@ Select "New repository" from the dropdown.
  - **Visibility**: Choose "Public" (free and visible to everyone) or "Private" (requires a paid plan for private repos).
 
     Leave "Initialize this repository with" unchecked if you want to start empty.
+
+![GitHub Repository Details](/Pictures/GitHub%20Repository%20Details.png)
+
 
 4. Create the Repository:
 Click "Create repository". GitHub will generate the repo and show its URL (e.g., https://github.com/yourusername/my-project.git).
