@@ -106,3 +106,8 @@ Select "New repository" from the dropdown.
 Click "Create repository". GitHub will generate the repo and show its URL (e.g., https://github.com/yourusername/my-project.git).
 
 ![New Repository](/Pictures/New%20Repository.png)
+
+## Linking VS Code to GitHub 
+1.	Open VS Code and Access the Terminal:
+    * Launch VS Code.
+    * Open the integrated terminal: View > Terminal (or Ctrl+ / Cmd+ on Mac).
