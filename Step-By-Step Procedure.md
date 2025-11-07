@@ -109,5 +109,34 @@ Click "Create repository". GitHub will generate the repo and show its URL (e.g.,
 
 ## Linking VS Code to GitHub 
 1.	Open VS Code and Access the Terminal:
-    * Launch VS Code.
-    * Open the integrated terminal: View > Terminal (or Ctrl+ / Cmd+ on Mac).
+    - Launch VS Code.
+    - Open the integrated terminal: View > Terminal (or Ctrl+ / Cmd+ on Mac).
+
+2. Run the Provided Git Configuration Commands:
+    - In the terminal, execute each command one by one (replace placeholders with your details):
+        * git config --global user.name "Your Name"
+        * git config --global user.email "you@youraddress.com"
+        * git config --global push.default matching
+        * git config --global alias.co checkout
+    - These set up your Git identity and preferences globally (across all repos on your machine).
+
+3.	Initialize a Local Repository (If Starting a New Project):
+    - Navigate to your project folder in the terminal (e.g., cd path/to/your/project)
+    - Run: git init
+    - This creates a .git folder, turning the directory into a Git repo. You can now add files and commit them.
+
+4. Authenticate with GitHub:
+    - VS Code can handle this via its UI. Click the Accounts icon (person silhouette) in the bottom-left, then "Sign in with GitHub" to authorize via OAuth (opens a browser).
+    - Alternatively, for command-line pushes, set up a Personal Access Token (PAT) on GitHub (Settings > Developer settings > Personal access tokens) and use it as your password when prompted.
+
+5. Connect to an Existing GitHub Repository:
+    - Clone a Repo: In VS Code, open the Command Palette (Ctrl+Shift+P / Cmd+Shift+P), type "Git: Clone", paste the GitHub URL (e.g., https://github.com/username/repo.git), and select a folder. VS Code will clone it and open it.
+        * git remote add origin https://github.com/username/repo.git
+        * git add .
+        * git commit -m "Initial commit"
+        * git push -u origin main
+
+6. Verify and Use in VS Code:
+    - Open the Source Control view (Ctrl+Shift+G / Cmd+Shift+G) to see changes, commits, and branches.
+    - Use the UI for staging, committing, pushing, and pulling. The co alias you set can be used in the terminal (e.g., git co branch-name).
+    
