@@ -110,7 +110,10 @@ Click "Create repository". GitHub will generate the repo and show its URL (e.g.,
 ## Linking VS Code to GitHub 
 1.	Open VS Code and Access the Terminal:
     - Launch VS Code.
-    - Open the integrated terminal: View > Terminal (or Ctrl+ / Cmd+ on Mac).
+    - Open the integrated terminal: View > Terminal (or Ctrl+ / Cmd+ on Mac). 
+    - You can use the Git Bash terminal for better process (View > Terminal + > Git Bash)
+
+![Terminal in VSC](/Pictures/Terminal%20in%20VSC.png)
 
 2. Run the Provided Git Configuration Commands:
     - In the terminal, execute each command one by one (replace placeholders with your details):
@@ -118,6 +121,9 @@ Click "Create repository". GitHub will generate the repo and show its URL (e.g.,
         * git config --global user.email "you@youraddress.com"
         * git config --global push.default matching
         * git config --global alias.co checkout
+
+![Git Config on VSC](/Pictures/Git%20Config%20on%20VSC.png)
+
     - These set up your Git identity and preferences globally (across all repos on your machine).
 
 3.	Initialize a Local Repository (If Starting a New Project):
@@ -125,9 +131,12 @@ Click "Create repository". GitHub will generate the repo and show its URL (e.g.,
     - Run: git init
     - This creates a .git folder, turning the directory into a Git repo. You can now add files and commit them.
 
+![Git Folder](/Pictures/Git%20Folder%20.png)
+
 4. Authenticate with GitHub:
     - VS Code can handle this via its UI. Click the Accounts icon (person silhouette) in the bottom-left, then "Sign in with GitHub" to authorize via OAuth (opens a browser).
-    - Alternatively, for command-line pushes, set up a Personal Access Token (PAT) on GitHub (Settings > Developer settings > Personal access tokens) and use it as your password when prompted.
+
+![GitHub Sign in VSC](/Pictures/GitHub%20Sign%20in%20VSC.png)
 
 5. Connect to an Existing GitHub Repository:
     - Clone a Repo: In VS Code, open the Command Palette (Ctrl+Shift+P / Cmd+Shift+P), type "Git: Clone", paste the GitHub URL (e.g., https://github.com/username/repo.git), and select a folder. VS Code will clone it and open it.
