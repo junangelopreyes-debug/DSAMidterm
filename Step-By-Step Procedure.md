@@ -124,7 +124,7 @@ Click "Create repository". GitHub will generate the repo and show its URL (e.g.,
 
 ![Git Config on VSC](/Pictures/Git%20Config%20on%20VSC.png)
 
-        These set up your Git identity and preferences globally (across all repos on your machine).
+These set up your Git identity and preferences globally (across all repos on your machine).
 
 3.	Initialize a Local Repository (If Starting a New Project):
     - Navigate to your project folder in the terminal (e.g., cd path/to/your/project)
