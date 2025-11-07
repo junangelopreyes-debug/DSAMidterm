@@ -149,5 +149,5 @@ These set up your Git identity and preferences globally (across all repos on you
     - Open the Source Control view (Ctrl+Shift+G / Cmd+Shift+G) to see changes, commits, and branches.
     - Use the UI for staging, committing, pushing, and pulling. The co alias you set can be used in the terminal (e.g., git co branch-name).
     
-# That's it!
+## That's it!
 And you're done, you are now ready to tackle on the challenges of coding and jumpstart your journey on coding using these three tools. I hope you've learned a lot in this tutorial and God bless!
